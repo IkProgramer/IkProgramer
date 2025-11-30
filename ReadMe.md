@@ -12,8 +12,6 @@
 ### ⭐ Full Stats
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MonsteraDev&theme=radical&layout=compact&hide_border=false)
 
-### 🔥 Coding Streak
-![Wakatime Streak](https://github-readme-streak-stats.herokuapp.com/?user=MonsteraDev&theme=radical&hide_border=false)
 
 </div>
 
