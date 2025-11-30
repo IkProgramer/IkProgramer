@@ -10,10 +10,10 @@
 <div align="center">
   
 ### ⭐ Full Stats
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fc9e2d64-e306-46a2-9a45-6cccf9b4e297&theme=radical&layout=compact&hide_border=false)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MonsteraDev&theme=radical&layout=compact&hide_border=false)
 
 ### 🔥 Coding Streak
-![Wakatime Streak](https://github-readme-streak-stats.herokuapp.com/?user=fc9e2d64-e306-46a2-9a45-6cccf9b4e297&theme=radical&hide_border=false)
+![Wakatime Streak](https://github-readme-streak-stats.herokuapp.com/?user=MonsteraDev&theme=radical&hide_border=false)
 
 </div>
 
