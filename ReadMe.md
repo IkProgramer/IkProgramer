@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7HCXf7Z2UX) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/porpostu__nick) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_JustANick) 
 
 
-# ⏱ Coding Time (WakaTime)
+# ⏱ Coding Time
 <div align="center">
   
 ### ⭐ Full Stats
